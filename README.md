@@ -14,8 +14,14 @@ OutPut Example :
 ### Installation
 ```
 git clone https://github.com/cyberjeevi/py-obfuscator/
+```
+```
 cd py-obfuscator/
+```
+```
 chmod +x setup.sh
+```
+```
 bash setup.sh
 ```
 After above INSTALLATION Codes:
@@ -33,4 +39,5 @@ Feedback : [Email Me](cyberjeevi@gmail.com)
 
 ### Donate:
 Upi : cyberjeevi@upi
+
 BitCoin : 3GLYFbsXpRvhzP9AJLkF1XFq85vN95QPiP
