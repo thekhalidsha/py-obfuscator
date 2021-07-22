@@ -12,7 +12,9 @@ Simple Obfuscation takes place here.
 OutPut Example :
 
 <img src="example.png">
+
 ### Installation
+
 ```
 git clone https://github.com/cyberjeevi/py-obfuscator/
 ```
