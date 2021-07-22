@@ -10,6 +10,7 @@ It Obfuscate Python Codes with Haxx0r's Enc.
 Simple Obfuscation takes place here.
 
 OutPut Example :
+
 <img src="example.png">
 ### Installation
 ```
